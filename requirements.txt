@@ -1,5 +1,5 @@
 discord.py
 discord-ui
-py-cord
+py-cord==2.4.1
 asyncio==3.4.3
 flask

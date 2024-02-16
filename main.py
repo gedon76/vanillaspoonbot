@@ -15,7 +15,7 @@ intents.message_content = True
 client = commands.Bot(intents=intents, command_prefix="!")
 channel1IDS = 1106250814865027184
 
-token = os.env[TOKEN]
+token = os.environ.get('TOKEN')
 status1 = 'модератора'
 status2 = 'личные сообщения'
 

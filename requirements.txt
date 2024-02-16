@@ -1,4 +1,4 @@
-discord
+discord.py
 discord-ui
 py-cord
 asyncio==3.4.3

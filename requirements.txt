@@ -1,4 +1,4 @@
-aiohttp==3.6
+aiohttp
 aiosignal
 async-timeout
 asyncio==3.4.3
